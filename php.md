@@ -88,7 +88,7 @@
 - 数据库相关：MySQL/SQLServer/Access/PDO
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 服务器相关：Apache/Nginx
-- 云和开放平台：SAE/BAE/AWS/微信应用开发
+- 云和开放平台：SAE/BAE/AWS/阿里云/微信应用开发
 
 
 ---
