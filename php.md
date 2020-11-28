@@ -51,7 +51,7 @@
 我作为核心成员主要负责带领其他3个小伙伴完成了服务器搭建和业务逻辑的后台开发工作以及维护，为上线后的项目提供技术支持。对ecshop、人人商城等进行过二次开发。在项目开发过成中熟练的掌握和运用php框架，与前台配合默契。
 
 ### 其他项目
- 家政线上预约系统（微信公众号端）
+ 小管家家政线上预约系统（微信公众号端）
 
 
 
@@ -76,26 +76,6 @@
 
 ---
 
-# 开源项目和作品
-
-## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
-
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
-
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
- - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
-
 # 技能清单
 
 
@@ -109,87 +89,6 @@
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 服务器相关：Apache/Nginx
 - 云和开放平台：SAE/BAE/AWS/微信应用开发
-
-## 参考技能关键字
-
-本技能关键字列表是从最近招聘PHP的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- php(959)
-- mysql(525)
-- web(280)
-- linux(269)
-- css(246)
-- javascript(241)
-- html(196)
-- ajax(151)
-- jquery(120)
-- sql(105)
-- mvc(104)
-- lamp(91)
-- js(76)
-- apache(76)
-- xml(68)
-- unix(68)
-- div(67)
-- nginx(62)
-- yii(56)
-- thinkphp(56)
-- redis(52)
-- xhtml(51)
-- shell(49)
-- oop(41)
-- json(41)
-- memcache(38)
-- zend(36)
-- java(31)
-- api(31)
-- ci(31)
-- svn(27)
-- python(27)
-- codeigniter(27)
-- html5(26)
-- nosql(25)
-- discuz(24)
-- smarty(23)
-- mongodb(21)
-- cms(21)
-- oracle(21)
-- w3c(19)
-- framework(18)
-- lbs(17)
-- git(17)
-- memcached(17)
-- tcp(15)
-- lnmp(15)
-- cakephp(13)
-- rest(12)
-- crm(9)
-- android(9)
-- uml(9)
-- css3(8)
-- webservice(8)
-- php5(8)
-- tp(8)
-- dhtml(8)
-- ecshop(7)
-- symfony(7)
-- erp(7)
-- windows(6)
-- sns(6)
-- wordpress(5)
-- seo(5)
-- phpcms(5)
-- bootstrap(5)
-- drupal(5)
-- cache(5)
-- o2o(5)
-- ui(5)
-- postgresql(5)
-- perl(5)
-- github(4)
-- oa(4)
-- yaf(4)
-
 
 
 ---
