@@ -130,17 +130,17 @@
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
+
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/HTML/CSS/JS
-- Web框架：ThinkPHP/Yaf/Yii/Laravel/LazyPHP
+- Web开发：PHP/HTML/CSS/JS/Java
+- Web框架：ThinkPHP/Yii/Laravel
 - 前端框架：Vue/React
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 前端工具：Bower/PhpStorm/HBuilder/
+- 数据库相关：MySQL/SQLServer/Access/PDO
 - 版本管理、文档和自动化部署工具：Svn/Git
-- 单元测试：PHPUnit/SimpleTest/Qunit
+- 服务器相关：Apache/Nginx
 - 云和开放平台：SAE/BAE/AWS/微信应用开发
 
 ## 参考技能关键字
