@@ -38,7 +38,10 @@
 - 项目技术：ThingPhp框架 + JQuery、AJAX
 
 - 软件描述：此应用是集线上商城、身体状况监测、线上智能医生等功能于一体的线上平台。可以结合线下门店进行客户的信息和身体健康状况采集。根据线上智能医生的体检测试结果推送一些养生方案和专属调理产品。此应用还有线上带煎药功能方便门店周边客户，增加用户粘度。
-<img src="https://image-1257299911.cos.ap-beijing.myqcloud.com/1.png" width = "300"  alt="图片说明" align=center />
+<img src="https://image-1257299911.cos.ap-beijing.myqcloud.com/1.png" width = "300"   align=center />
+<img src="https://image-1257299911.cos.ap-beijing.myqcloud.com/1.png" width = "300"   align=center />
+<img src="https://image-1257299911.cos.ap-beijing.myqcloud.com/1.png" width = "300"   align=center />
+<img src="https://image-1257299911.cos.ap-beijing.myqcloud.com/1.png" width = "300"   align=center />
 
 ### 微信小程序开发
 我主要负责服务器搭建、后台代码编写、前端代码编写，以及上述工作的测试和日常维护工作。通过微信小程序的开发过程，结合微信小程序团队文档的学习，进一步把小程序开发和实际应用紧密结合增强了用户体验。
